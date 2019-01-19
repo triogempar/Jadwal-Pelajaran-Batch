@@ -1,1 +1,1 @@
-# Jadwal-Pelajaran-Batch
+# Jadwal Pelajaran Batch
